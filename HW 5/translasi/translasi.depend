@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1698302402 source:d:\smt 5\komgraf\translasi\main.cpp
+	<GL/glut.h>
+
+1426324528 d:\instalation software\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426324528 d:\instalation software\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1699378232 source:d:\smt 5\komgraf\hw 5\translasi\main.cpp
+	<GL/glut.h>
+
